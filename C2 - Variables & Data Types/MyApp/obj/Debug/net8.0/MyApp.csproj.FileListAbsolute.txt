@@ -1,0 +1,15 @@
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/bin/Debug/net8.0/MyApp
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/bin/Debug/net8.0/MyApp.dll
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/bin/Debug/net8.0/MyApp.pdb
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.dll
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.pdb
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/home/ditech/Desktop/self-learning/csharp-learning-journey/C2 - Variables & Data Types/MyApp/obj/Debug/net8.0/ref/MyApp.dll
